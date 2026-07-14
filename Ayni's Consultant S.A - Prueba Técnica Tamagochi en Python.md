@@ -1,4 +1,3 @@
-💀 ❤️ ⚡ 🍖
 **Objetivo:** Crear un programa que simule una mascota virtual, aplicando funciones, bucles, condicionales, variables globales y eventos aleatorios.
 
 **Requisitos:**
