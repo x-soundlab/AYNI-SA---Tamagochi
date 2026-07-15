@@ -67,7 +67,6 @@ def aburrirse():
 #print (mostrar_estado())
 
 #input que llame una funcion de python
-
 acciones_disponibles = {
     "comer": comer,
     "dormir": dormir,
